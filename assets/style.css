@@ -1,11 +1,37 @@
-p {
-    color:brown;
-}
-
 .alaotsikot {
-    color:brown;
+    color:black;
 }
 
 .henkilot {
-    color:hotpink;
+    color:rgb(3, 3, 3);
+}
+
+.henkiloboxi {
+
+    position: relative;
+    margin-left: 25em;
+    margin-top: -30.5em;
+    margin-bottom: 20em;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.tekstiboxi {
+    margin-top: -10em;
 }
